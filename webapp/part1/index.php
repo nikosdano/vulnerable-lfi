@@ -1,6 +1,5 @@
 <?php
 session_start();
-$_SESSION["Lang"] = $_COOKIE["Lang"];
 ?>
 <html>
     <head>
